@@ -1,4 +1,4 @@
-## Create React App template with ChakraUI and Typescript
+## Create React App with ChakraUI and Typescript
 
 [ReactJS](https://es.reactjs.org)
 <br/>

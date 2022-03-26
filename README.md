@@ -1,4 +1,4 @@
-  [![React](https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg "React")](https://es.reactjs.org "React")
+  [![React](https://dev-to-uploads.s3.amazonaws.com/i/grki97glctbmjydzqejw.png "React")](https://es.reactjs.org "React")
 ## Create React App with ChakraUI and Typescript
 
 *This is a Create React App template setup with Chakraui, Typescript and React Router*

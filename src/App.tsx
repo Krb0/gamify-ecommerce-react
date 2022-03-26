@@ -1,10 +1,10 @@
-import { Box } from "@chakra-ui/react";
-import { Routes, Route } from "react-router-dom";
+import Layout from "./Layout";
+import Routes from "./routes/Routes";
 
 export const App = () => {
   return (
-    <Routes>
-      <Route path="/" element={<Box>Hello World</Box>} />
-    </Routes>
+    <Layout>
+      <Routes />;
+    </Layout>
   );
 };

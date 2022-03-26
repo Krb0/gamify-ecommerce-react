@@ -18,7 +18,7 @@ export const fonts = {
 
 const theme = extendTheme({
   colors: {
-    black: "#585858",
+    dark: "#585858",
   },
   fonts,
   breakpoints,

@@ -1,7 +1,7 @@
 import { Box } from "@chakra-ui/react";
 
 const Home = () => {
-  return <Box>Hello World</Box>;
+  return <Box>This is the Home Route</Box>;
 };
 
 export default Home;

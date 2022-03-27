@@ -1,3 +1,4 @@
+import { chakra } from "@chakra-ui/react";
 import Announcement from "./Announcement";
 import Navbar from "./Navbar";
 const Layout = ({ children }: { children: React.ReactNode }) => {
@@ -5,7 +6,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
     <>
       <Announcement />
       <Navbar />
-      {children}
+      <chakra.main>{children}</chakra.main>
     </>
   );
 };

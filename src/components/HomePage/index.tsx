@@ -1,7 +1,12 @@
-import { Box } from "@chakra-ui/react";
+import { Stack } from "@chakra-ui/react";
+import Slider from "./Slider";
 
 const Home = () => {
-  return <Box height="60px">Hello Home</Box>;
+  return (
+    <Stack>
+      <Slider />
+    </Stack>
+  );
 };
 
 export default Home;

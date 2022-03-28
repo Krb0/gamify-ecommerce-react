@@ -24,7 +24,13 @@ const Navbar = () => {
           <Search />
         </Flex>
       </Flex>
-      <chakra.h1 flex="1" fontWeight="700" fontSize="2rem" textAlign="center">
+      <chakra.h1
+        flex="1"
+        fontWeight="700"
+        fontSize="2rem"
+        textAlign="center"
+        color="teal.700"
+      >
         Jade
       </chakra.h1>
       <Flex flex="1" alignItems="center" justifyContent="flex-end">

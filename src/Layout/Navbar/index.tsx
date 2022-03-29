@@ -1,6 +1,6 @@
-import { Box, Flex, chakra, Input } from "@chakra-ui/react";
-import { Badge, MenuItem } from "@material-ui/core";
-import { Search, ShoppingCartOutlined } from "@material-ui/icons";
+import { Flex, chakra } from "@chakra-ui/react";
+import Buttons from "./Buttons";
+import SearchBar from "./SearchBar";
 
 const Navbar = () => {
   return (
@@ -10,20 +10,7 @@ const Navbar = () => {
       justifyContent="space-between"
       alignItems="center"
     >
-      <Flex flex="1" alignItems="center">
-        <chakra.span fontSize="14px" cursor="pointer">
-          EN
-        </chakra.span>
-        <Flex
-          border="1px solid lightgray"
-          borderRadius="3x"
-          alignItems="center"
-          marginLeft="25px"
-        >
-          <Input border="none" borderRadius="0" />
-          <Search />
-        </Flex>
-      </Flex>
+      <SearchBar />
       <chakra.h1
         flex="1"
         fontWeight="700"
@@ -33,21 +20,7 @@ const Navbar = () => {
       >
         Jade
       </chakra.h1>
-      <Flex flex="1" alignItems="center" justifyContent="flex-end">
-        <MenuItem>Login</MenuItem>
-        <MenuItem>Register</MenuItem>
-        <Box
-          cursor="pointer"
-          padding="6px 16px"
-          _hover={{
-            bgColor: "#f5f5f5",
-          }}
-        >
-          <Badge badgeContent={4} color="secondary">
-            <ShoppingCartOutlined color="action" />
-          </Badge>
-        </Box>
-      </Flex>
+      <Buttons />
     </Flex>
   );
 };

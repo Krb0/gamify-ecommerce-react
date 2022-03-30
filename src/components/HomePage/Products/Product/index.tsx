@@ -23,7 +23,6 @@ const Product = ({ item }: { item: popularProductType }) => {
         borderRadius="50%"
         bgColor="rgba(0,100,0,0.1)"
       />
-
       <Image src={item.img} height="95%" zIndex="2" />
       <Buttons />
     </Flex>

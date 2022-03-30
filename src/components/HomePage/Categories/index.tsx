@@ -5,7 +5,7 @@ const Categories = () => {
   return (
     <Flex padding="20px" justifyContent="space-between" flexWrap="wrap">
       {categoryList.map((category) => (
-        <CategoryItem category={category} />
+        <CategoryItem category={category} key={category.id} />
       ))}
     </Flex>
   );

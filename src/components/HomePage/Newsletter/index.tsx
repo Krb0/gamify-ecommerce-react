@@ -12,9 +12,11 @@ const Newsletter = () => {
       gap="2rem"
     >
       <Stack alignItems="center" textAlign={{ base: "center", md: "left" }}>
-        <chakra.h1 fontSize="70px">Newsletter</chakra.h1>
+        <chakra.h1 fontSize={{ base: "45px", xs: "70px" }}>
+          Newsletter
+        </chakra.h1>
 
-        <chakra.span fontSize="24px" fontWeight="300">
+        <chakra.span fontSize={{ base: "16px", xs: "24px" }} fontWeight="300">
           Get timely updates from your favorite products.
         </chakra.span>
       </Stack>

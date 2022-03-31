@@ -28,6 +28,7 @@ const SliderItem = ({
         objectFit={{ base: "cover", xl: "contain" }}
         objectPosition={item.objectPos}
         flex={{ base: "1", xl: "1" }}
+        display={{ base: "none", xs: "flex" }}
       />
       <SliderInfo item={item} />
     </Flex>

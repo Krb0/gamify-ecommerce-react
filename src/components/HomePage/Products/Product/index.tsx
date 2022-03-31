@@ -7,11 +7,11 @@ const Product = ({ item }: { item: popularProductType }) => {
     <Flex
       flex="1"
       margin="5px"
-      minWidth="280px"
+      minWidth={{ base: "90vw", xs: "280px" }}
       height="350px"
       alignItems="center"
       justifyContent="center"
-      bgColor="#f5fbfd"
+      bgGradient="linear-gradient(155deg, rgba(122,36,175,0.8) 34%, rgba(85,36,175,0.8) 70%)"
       position="relative"
       role={"group"}
     >
@@ -21,9 +21,8 @@ const Product = ({ item }: { item: popularProductType }) => {
         zIndex="1"
         position="absolute"
         borderRadius="50%"
-        bgColor="rgba(0,100,0,0.1)"
       />
-      <Image src={item.img} height="95%" zIndex="2" />
+      <Image src={item.img} height="95%" zIndex="2" objectFit="contain" />
       <Buttons />
     </Flex>
   );

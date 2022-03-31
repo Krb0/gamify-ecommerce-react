@@ -1,10 +1,8 @@
 import { Flex, Stack, chakra, Image } from "@chakra-ui/react";
 import {
-  Facebook,
   Instagram,
   MailOutline,
   Phone,
-  Pinterest,
   Room,
   Twitter,
 } from "@material-ui/icons";
@@ -14,7 +12,7 @@ const Footer = () => {
     <Flex flexDirection={{ base: "column", md: "row" }} maxWidth="100vw">
       <Stack flex="1" p="20px">
         <chakra.h1 fontSize="1.5rem" fontWeight="bold">
-          Jade
+          Gamify
         </chakra.h1>
         <chakra.p m="20px 0px" fontSize="1.05rem">
           There are many variations of passages of Lorem Ipsum available, but
@@ -22,17 +20,11 @@ const Footer = () => {
           humour, or randomised words which don’t look even slightly believable.
         </chakra.p>
         <Flex>
-          <SocialIcon color="#3B5999">
-            <Facebook color="inherit" />
-          </SocialIcon>
           <SocialIcon color="#E4405F">
             <Instagram color="inherit" />
           </SocialIcon>
           <SocialIcon color="#55ACEE">
             <Twitter color="inherit" />
-          </SocialIcon>
-          <SocialIcon color="#E60023">
-            <Pinterest color="inherit" />
           </SocialIcon>
         </Flex>
       </Stack>
@@ -47,19 +39,11 @@ const Footer = () => {
           listStyleType="none"
           flexWrap="wrap"
         >
-          {[
-            "Home",
-            "Cart",
-            "Man Fashion",
-            "Woman Fashion",
-            "Accessories",
-            "My Account",
-            "Order Tracking",
-            "Wishlist",
-            "Terms",
-          ].map((word) => (
-            <ListItem word={word} key={word} />
-          ))}
+          {["Home", "Cart", "Components", "Peripherals", "Games"].map(
+            (word) => (
+              <ListItem word={word} key={word} />
+            )
+          )}
         </Stack>
       </Flex>
       <Contact />
@@ -108,7 +92,7 @@ const Contact = () => {
         <Phone style={{ marginRight: "10px" }} /> +1 234 56 78
       </Flex>
       <Flex mb="20px" display="flex" alignItems="center">
-        <MailOutline style={{ marginRight: "10px" }} /> contact@lama.dev
+        <MailOutline style={{ marginRight: "10px" }} /> contact@gamify.dev
       </Flex>
       <Image width="50%" src="https://i.ibb.co/Qfvn4z6/payment.png" />
     </Stack>

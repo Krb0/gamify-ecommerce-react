@@ -28,6 +28,7 @@ const CategoryContent = ({ category }: { category: CategoryType }) => {
       alignItems="center"
       justifyContent="center"
       color="white"
+      bgColor="rgba(0,0,0,0.6)"
     >
       <chakra.h3
         fontSize={{ base: "1.2rem", xl: "2.75rem" }}

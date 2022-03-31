@@ -18,7 +18,7 @@ const Buttons = () => {
       opacity="0"
       transition="all 0.25s"
       _groupHover={{
-        bgColor: "rgba(0,60,0,0.8)",
+        bgColor: "rgba(0,0,0,0.7)",
         opacity: "1",
       }}
     >

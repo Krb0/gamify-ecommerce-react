@@ -5,10 +5,11 @@ const Newsletter = () => {
   return (
     <Stack
       height="60vh"
-      bgColor="#fcf5f5"
+      bgGradient="linear-gradient(155deg, rgba(122,36,175,0.78) 34%, rgba(85,36,175,0.78) 70%)"
       alignItems="center"
       spacing="0"
       justifyContent="center"
+      color="white"
       gap="2rem"
     >
       <Stack alignItems="center" textAlign={{ base: "center", md: "left" }}>
@@ -24,7 +25,6 @@ const Newsletter = () => {
       <Flex
         width={{ base: "80%", md: "50%" }}
         height="40px"
-        bgColor="white"
         justifyContent="space-between"
       >
         <Input
@@ -32,12 +32,13 @@ const Newsletter = () => {
           flex="8"
           paddingLeft="20px"
           placeholder="Your email"
+          bgColor="white"
           borderRightRadius="none"
         />
         <Button
           flex="1"
           border="none"
-          bgColor="teal"
+          bgColor="red.600"
           color="white"
           borderLeftRadius="0"
         >

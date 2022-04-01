@@ -1,8 +1,7 @@
-import { Flex, chakra } from "@chakra-ui/react";
-import { useLocation } from "react-router-dom";
+import { Flex, chakra, Link } from "@chakra-ui/react";
+import { useLocation, Link as RouterLink } from "react-router-dom";
 import Buttons from "./Buttons";
 import SearchBar from "./SearchBar";
-
 const Navbar = () => {
   const { pathname } = useLocation();
   return (
@@ -13,16 +12,17 @@ const Navbar = () => {
       alignItems="center"
       flexWrap="wrap"
     >
+      <Link as={RouterLink} to="/" flex="1">
+        <chakra.h1
+          fontWeight="700"
+          fontSize="2rem"
+          textAlign="left"
+          color="black"
+        >
+          Gamify
+        </chakra.h1>
+      </Link>
       {pathname !== "/" ? <SearchBar /> : ""}
-      <chakra.h1
-        flex="1"
-        fontWeight="700"
-        fontSize="2rem"
-        textAlign="left"
-        color="black"
-      >
-        Gamify
-      </chakra.h1>
       <Buttons />
     </Flex>
   );

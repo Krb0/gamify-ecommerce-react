@@ -9,6 +9,7 @@ const SearchBar = () => {
         borderRadius="3x"
         alignItems="center"
         marginLeft="25px"
+        width="full"
       >
         <Input border="none" borderRadius="0" />
         <Search />

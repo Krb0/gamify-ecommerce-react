@@ -29,9 +29,12 @@ const Newsletter = () => {
       >
         <Input
           border="none"
+          type="email"
+          name="email"
           flex="8"
           paddingLeft="20px"
           placeholder="Your email"
+          color="black"
           bgColor="white"
           borderRightRadius="none"
         />

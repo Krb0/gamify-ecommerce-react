@@ -82,7 +82,7 @@ const SocialIcon = ({
 const Contact = () => {
   return (
     <Stack flex="1" padding="20px">
-      <chakra.h3 mb="30px" fontSize="1.5rem" fontWeight="bold">
+      <chakra.h3 mb="20px" fontSize="1.5rem" fontWeight="bold">
         Contact
       </chakra.h3>
       <Flex mb="20px" display="flex" alignItems="center">

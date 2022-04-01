@@ -11,7 +11,7 @@ const Product = ({ item }: { item: popularProductType }) => {
       height="350px"
       alignItems="center"
       justifyContent="center"
-      bgGradient="linear-gradient(155deg, rgba(122,36,175,0.8) 34%, rgba(85,36,175,0.8) 70%)"
+      bgGradient="linear-gradient(155deg, rgba(122,36,175,0.6) 34%, rgba(85,36,175,0.6) 70%)"
       position="relative"
       role={"group"}
     >

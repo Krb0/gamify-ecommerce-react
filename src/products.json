@@ -1,0 +1,702 @@
+[
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/61zpi0MigBL._AC_UY218_.jpg",
+    "id": "7c9bfe2f-642c-5498-ab15-049167817576",
+    "name": "Intel® Core™ i9-10850K",
+    "price": 349
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/71Vu7lBLzRL._AC_UY218_.jpg",
+    "id": "dec6803a-c262-572f-9b70-40c478b92151",
+    "name": "Corsair Dominator RGB 64GB",
+    "price": 529
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/51JklJOcDXL._AC_UY218_.jpg",
+    "id": "485b9b6d-c631-5709-a55b-0a7b2aa856d5",
+    "name": "Kingston FURY Impact 32GB",
+    "price": 158
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/51c5Htv8p1L._AC_UY218_.jpg",
+    "id": "8576786d-5460-56ab-90c8-fdff509ba481",
+    "name": "AMD Ryzen 7 3800X",
+    "price": 399
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/71cIdYCiF3L._AC_UY218_.jpg",
+    "id": "dc511d0a-328e-56e4-9952-27b4a2c2cdf6",
+    "name": "HyperX Alloy Elite",
+    "price": 129
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/81dLH5W903L._AC_UY218_.jpg",
+    "id": "bb2875c8-413f-572b-b881-0d2f306b4a49",
+    "name": "SteelSeries Apex 3",
+    "price": 79
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/61xAzEoCuhL._AC_UY218_.jpg",
+    "id": "78f8f2b4-5054-5879-b58b-b8761ec6dfb7",
+    "name": "Intel Core i5-10600K",
+    "price": 212
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/71pPm31LFkS._AC_UY218_.jpg",
+    "id": "8aa4951c-a4b1-5419-8415-52eeac53e8b4",
+    "name": "Fiodio Mechanical",
+    "price": 99
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/51XWCgqIUVL._AC_UY218_.jpg",
+    "id": "0a366561-7e7a-59f8-b3dd-819fbc32a24e",
+    "name": "Corsair Vengeance LPX 16GB",
+    "price": 77
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/81roYAHWN9L._AC_UY218_.jpg",
+    "id": "e9b198b3-329d-534f-a8c9-a34bddea2671",
+    "name": "MSI Vigor GK30 Combo",
+    "price": 50
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/61Nt8geXzWL._AC_UY218_.jpg",
+    "id": "0bf44f3d-e9a1-5c29-aaa7-4e31896d058e",
+    "name": "Logitech G213 Prodigy",
+    "price": 49
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/718THDeCWFL._AC_UY218_.jpg",
+    "id": "1403279b-cbae-5c59-adaf-aefc93555901",
+    "name": "NZXT C750",
+    "price": 109
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/71WLuwwKDkL._AC_UY218_.jpg",
+    "id": "91e06ae8-46e0-5b8e-9c8b-46189a5b49d4",
+    "name": "Corsair CX550F RGB",
+    "price": 79
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/710giQRHyQS._AC_UY218_.jpg",
+    "id": "b0e2a1e0-c0f5-58dd-a6dd-a78fd1c3a986",
+    "name": "Corsair RMX Series",
+    "price": 176
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/61xNbcWbvDL._AC_UY218_.jpg",
+    "id": "045d6ec4-6d7e-50e3-8bc4-5c159b5923ce",
+    "name": "Logitech G613 LIGHTSPEED",
+    "price": 69
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/61mBrF1jNuL._AC_UY218_.jpg",
+    "id": "08c63ecb-358d-5f98-b51f-a73a2bbf53aa",
+    "name": "Intel Core i9-10900X",
+    "price": 589
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/51S2a+GyxUS._AC_UY218_.jpg",
+    "id": "8fd6b43e-229a-520c-b586-3d6983ce4750",
+    "name": "Intel Core i3-10100F",
+    "price": 84
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/71J2jBmoOaL._AC_UY218_.jpg",
+    "id": "1bd3ddf3-3119-5ca6-ac97-b4113cd8af00",
+    "name": "Intel Core i9-10900",
+    "price": 340
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/81eoV5SY8RL._AC_UY218_.jpg",
+    "id": "3a80fd74-e36d-5755-a182-180117c7ca85",
+    "name": "Intel® Core™ i5-10600KF",
+    "price": 184
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/61j3CTxnXVL._AC_UY218_.jpg",
+    "id": "d2ea4423-0000-5fb6-b0be-5de5f41f04a6",
+    "name": "Crucial RAM 8GB",
+    "price": 36
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/61xRbX299GL._AC_UY218_.jpg",
+    "id": "a5272dc9-76eb-5a47-8a51-1a989ac16ee3",
+    "name": "Intel® Core™ i7-10700F",
+    "price": 254
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/61GpY38PAWL._AC_UY218_.jpg",
+    "id": "69cfbd3d-7708-5235-b4a6-20f55b2221f7",
+    "name": "Corsair Vengeance RGB 32GB",
+    "price": 162
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/71nhqUGDj1L._AC_UY218_.jpg",
+    "id": "5045e1f4-69e8-5705-880f-6b3665bcc2ed",
+    "name": "Kingston FURY Renegade 64GB",
+    "price": 319
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/71jLhpuEwKL._AC_UY218_.jpg",
+    "id": "657f00e9-ea11-51a6-a10f-6f27e31468c4",
+    "name": "Corsair RMX Series",
+    "price": 84
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/6185WYzzvBL._AC_UY218_.jpg",
+    "id": "d00842b2-4e95-55e6-84db-d67546563ad5",
+    "name": "Intel Core i5-10400F",
+    "price": 130
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/61Az2uOUbqL._AC_UY218_.jpg",
+    "id": "476489e5-090d-5bc7-83d9-9c65398a31ca",
+    "name": "Razer Huntsman Mini",
+    "price": 44
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/51wqVVVtnyS._AC_UY218_.jpg",
+    "id": "35e62625-2fd9-514b-9a71-1d499014fca9",
+    "name": "Intel® Core™ i5-11400F",
+    "price": 164
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/616VM20+AzL._AC_UY218_.jpg",
+    "id": "825981f9-7885-57d9-a201-1260b9d2a7ee",
+    "name": "AMD Ryzen 9 5900X",
+    "price": 448
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/61aMmen0cFL._AC_UY218_.jpg",
+    "id": "0e45b9de-a004-57ab-87df-add44d93b0e6",
+    "name": "Intel Core i9-10900K",
+    "price": 389
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/71oz85Vv6mL._AC_UY218_.jpg",
+    "id": "b575fc9a-5d1d-57b5-97f7-08f48e946e40",
+    "name": "Crucial RAM 8GB",
+    "price": 36
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/61pZ7RxQQtL._AC_UY218_.jpg",
+    "id": "45482983-d921-549a-b98c-93a552b791f2",
+    "name": "Intel® Core™ i5-11600K",
+    "price": 214
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/71T9KD9OFVL._AC_UY218_.jpg",
+    "id": "7101c041-fa96-5463-86e7-e56e43802450",
+    "name": "HyperX Alloy Core RGB",
+    "price": 69
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/81VbPK0fFqL._AC_UY218_.jpg",
+    "id": "084e6479-72d9-5a39-ba13-aef184976893",
+    "name": "Razer Huntsman V2 ",
+    "price": 50
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/41iGKDq6t5L._AC_UY218_.jpg",
+    "id": "43c1f125-ae5a-5575-a015-00484a99ce9b",
+    "name": "Corsair CX",
+    "price": 69
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/61N-H0sAXeL._AC_UY218_.jpg",
+    "id": "2068ff9c-562d-50f4-a921-84d7db82882a",
+    "name": "NZXT Capsule",
+    "price": 129
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/71HV-xAiyML._AC_UY218_.jpg",
+    "id": "498e6183-1a6b-5083-aef8-2b127e28d554",
+    "name": "HyperX Alloy Origins 60",
+    "price": 189
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/716gjmLvNuL._AC_UY218_.jpg",
+    "id": "fe7bd069-e788-591d-968a-2e92f8eb8ab2",
+    "name": "Intel Core i7-9700",
+    "price": 357
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/81oWMJuiisL._AC_UY218_.jpg",
+    "id": "ae748dc2-89cc-5f37-88d5-2ec1e429dd0b",
+    "name": "CORSAIR Premium ",
+    "price": 89
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/61juA4lrX6L._AC_UY218_.jpg",
+    "id": "90df63d0-639d-506a-806c-6fa9a18864a0",
+    "name": "Intel Core i5-10400",
+    "price": 153
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/61aezyfO5cL._AC_UY218_.jpg",
+    "id": "b09b8566-8651-553d-991b-9d8dde247883",
+    "name": "Logitech G915",
+    "price": 129
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/61tRHzM9OeS._AC_UY218_.jpg",
+    "id": "aca34283-cf4b-5ba4-99b9-151e0211602a",
+    "name": "PNY XLR8 Gaming 32GB",
+    "price": 116
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/71TxeMiYJSL._AC_UY218_.jpg",
+    "id": "49206063-cd2f-51bb-b18a-1912a5746ec6",
+    "name": "Intel® Core™ i5-11400",
+    "price": 174
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/81k55rfk1iL._AC_UY218_.jpg",
+    "id": "71be1c21-ba10-56c6-b88c-d1bb67977570",
+    "name": "Corsair RMx Series",
+    "price": 134
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/81GgwLqahaL._AC_UY218_.jpg",
+    "id": "56dfb4a4-8360-5c02-b823-decdfabbad5d",
+    "name": "ASUS ROG Strix",
+    "price": 151
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/51DmAKBhmxL._AC_UY218_.jpg",
+    "id": "8eb891a0-32b0-577a-bebd-dd9036548e58",
+    "name": "Corsair Vengeance LPX 32GB",
+    "price": 147
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/616VM20+AzL._AC_UY218_.jpg",
+    "id": "d3cc988d-0fce-5886-a5d6-00e2fe2332db",
+    "name": "AMD Ryzen 9 5950X",
+    "price": 599
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/61Cu5QyHtnL._AC_UY218_.jpg",
+    "id": "3dc535d4-7f34-5481-9440-85dbdaa84562",
+    "name": "EVGA Supernova",
+    "price": 200
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/71rmFlBQL9L._AC_UY218_.jpg",
+    "id": "2f57a2db-8951-5271-a9c9-4da0e961ea3a",
+    "name": "EVGA 650 Bq",
+    "price": 54
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/61NOXYaDrdL._AC_UY218_.jpg",
+    "id": "03149e9a-283b-57ac-a5e9-3859e8495aca",
+    "name": "Corsair Vengeance LPX 16GB",
+    "price": 71
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/717Di3DGIbL._AC_UY218_.jpg",
+    "id": "5ff2c024-face-5a1a-a418-b5c3c1115e47",
+    "name": "AMD Ryzen 7 3700X",
+    "price": 296
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/51gCXtjJKhL._AC_UY218_.jpg",
+    "id": "85765632-0299-51ee-9fa1-62440f54bd13",
+    "name": "Corsair Vengeance RGB 32GB",
+    "price": 139
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/710cSh2PiSL._AC_UY218_.jpg",
+    "id": "c0b8959f-c4d6-5515-81fd-06c023df849b",
+    "name": "EVGA SuperNOVA",
+    "price": 131
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/71cQYybJC7L._AC_UY218_.jpg",
+    "id": "be837307-37ba-5d30-a359-f1f3342efce4",
+    "name": "HyperX Alloy Origins",
+    "price": 102
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/61hh5DtX35L._AC_UY218_.jpg",
+    "id": "5be2a303-f2a1-57a7-becd-af1458f2eb87",
+    "name": "G.Skill Ripjaws V Series 32GB",
+    "price": 179
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/51oa6+B1RAL._AC_UY218_.jpg",
+    "id": "72e3bd61-8449-5e1a-8555-cb7e67de8281",
+    "name": "Intel® Core™ i7-11700",
+    "price": 323
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/41jGx-EgaJL._AC_UY218_.jpg",
+    "id": "db6ced70-258d-5793-9ea1-6e994c0e712d",
+    "name": "Intel Core i9-11900K",
+    "price": 398
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/71r0WAKCUyL._AC_UY218_.jpg",
+    "id": "5b96da2a-1da5-5f93-a983-26cf44e267b4",
+    "name": "CORSAIR RM Series",
+    "price": 124
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/71EXOwFSf-L._AC_UY218_.jpg",
+    "id": "124bcc85-b32d-54b9-9458-fdaada41ee97",
+    "name": "Corsair Vengeance LPX 16GB",
+    "price": 77
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/71uDPxmJgyL._AC_UY218_.jpg",
+    "id": "b5c80ffe-26ca-5272-a992-c8d8ba2db46b",
+    "name": "Intel® Core™ i7-11700F",
+    "price": 299
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/51q4V9fOZSL._AC_UY218_.jpg",
+    "id": "06a3796b-1f2c-52c4-af46-0d7eb4593979",
+    "name": "Intel Core i9-12900KF",
+    "price": 578
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/81L8fk7SGQL._AC_UY218_.jpg",
+    "id": "4dcf01f6-ecd2-52a2-936b-670ff326af4e",
+    "name": "SteelSeries Apex 3 RGB",
+    "price": 99
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/71DkL7k9yjL._AC_UY218_.jpg",
+    "id": "f0fb7be6-521c-502d-b1f9-e644d083622c",
+    "name": "Corsair Vengeance RGB 16GB",
+    "price": 79
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/51gEF5jd3TL._AC_UY218_.jpg",
+    "id": "e0d3e5eb-4754-5779-852f-b91a5795f045",
+    "name": "Intel Core i5-12600K",
+    "price": 278
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/51WDUl2xGCL._AC_UY218_.jpg",
+    "id": "538f4767-ee0e-56d5-be48-20ee3a62dcaf",
+    "name": "Corsair Vengeance LPX 16GB",
+    "price": 64
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/71EBGPzoYkL._AC_UY218_.jpg",
+    "id": "05c89ed1-56dd-591b-8974-0d60827691d7",
+    "name": "Thermaltake Toughpower",
+    "price": 109
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/61RnzuOIOoL._AC_UY218_.jpg",
+    "id": "8a2174d7-e591-56d8-94d4-0ae71a37334a",
+    "name": "Intel Core i9-12900K",
+    "price": 340
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/71xZm+5N38L._AC_UY218_.jpg",
+    "id": "a8e9d827-2685-518e-8193-debc5be8a245",
+    "name": "NZXT C850",
+    "price": 119
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/71WPGXQLcLL._AC_UY218_.jpg",
+    "id": "9c15e17e-2a35-5751-a577-1fd29f226200",
+    "name": "AMD Ryzen 5 3600",
+    "price": 231
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/71hiRGC4ZdL._AC_UY218_.jpg",
+    "id": "357937b1-d105-58ae-8d3c-4864e24e0da8",
+    "name": "HyperX Alloy Origins",
+    "price": 50
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/71ZEdqXx5hL._AC_UY218_.jpg",
+    "id": "e47cb549-a508-571f-862a-a513cbe9c1a5",
+    "name": "HyperX Alloy Origins",
+    "price": 79
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/71Kkm5nIRKL._AC_UY218_.jpg",
+    "id": "59629a7a-4fb7-541d-9742-fafbb0a29d73",
+    "name": "Corsair Vengeance RGB 16GB",
+    "price": 82
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/8116DtW4WWL._AC_UY218_.jpg",
+    "id": "0c4d34c6-6741-59be-8dbd-551df88bf2e7",
+    "name": "Razer Ornata Chroma",
+    "price": 54
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/81eoV5SY8RL._AC_UY218_.jpg",
+    "id": "7253de80-35f2-5ee1-b439-29589fb403e0",
+    "name": "Intel Core i3-10105F",
+    "price": 87
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/714-1OvyFIL._AC_UY218_.jpg",
+    "id": "267fb5bc-76be-5ef3-9e77-c74f503fd2b2",
+    "name": "Intel Core i7-10700KF",
+    "price": 309
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/71P3chRzgNL._AC_UY218_.jpg",
+    "id": "a1844bae-6516-5707-8351-ffa759125d10",
+    "name": "Intel Core i7-10700K",
+    "price": 340
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/51f2hkWjTlL._AC_UY218_.jpg",
+    "id": "9ec80f2a-a791-5954-be4e-5005e02b3214",
+    "name": "AMD Ryzen 5 5600G",
+    "price": 209
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/51Cbvw+ScJL._AC_UY218_.jpg",
+    "id": "bb0fecfe-9044-5826-942d-ebf02cc98bee",
+    "name": "Intel Core i3-12100",
+    "price": 150
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/61DYLoyNRWL._AC_UY218_.jpg",
+    "id": "140f407c-045d-55ab-8388-16a0d774d0b9",
+    "name": "AMD Ryzen 7 5800X",
+    "price": 339
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/81yJwJWgDsL._AC_UY218_.jpg",
+    "id": "c4951408-2e9d-5e34-a005-1b3d9dd12ac5",
+    "name": "ASUS TUF GAMING",
+    "price": 97
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/81XfLlc+pIL._AC_UY218_.jpg",
+    "id": "f72bb24c-2f7f-581d-9bf6-39a5ba88e926",
+    "name": "XPG Z1 DDR4 3200MHz 16GB",
+    "price": 72
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/71r3ktfakgL._AC_UY218_.jpg",
+    "id": "ff0adc2f-9dd0-51eb-b199-3caf98a430bd",
+    "name": "Razer Tartarus v2",
+    "price": 39
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/51+K+Fsw0FL._AC_UY218_.jpg",
+    "id": "42aa78e1-e0a4-5d5d-a991-15b89c8ac301",
+    "name": "AMD Ryzen 2970WX ",
+    "price": 613
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/514VNpfgxIL._AC_UY218_.jpg",
+    "id": "48b1bd89-f257-5691-b177-203013cfc15d",
+    "name": "Intel Core i7-12700K",
+    "price": 384
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/61p32NOogaL._AC_UY218_.jpg",
+    "id": "77ca6788-44cf-5884-a69b-573b63df84b2",
+    "name": "Kingston FURY Beast RGB 16GB",
+    "price": 85
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/5134NIlgPpS._AC_UY218_.jpg",
+    "id": "749b0b30-189c-5e5a-ba75-624ba1909cd1",
+    "name": "PNY XLR8 Gaming 16GB",
+    "price": 77
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/71HEQ9FBF9L._AC_UY218_.jpg",
+    "id": "fa915177-71f4-58d7-897e-ba01119c55f2",
+    "name": "MSI MPG Series",
+    "price": 79
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/51p5BjKPc1L._AC_UY218_.jpg",
+    "id": "31f8bbfb-9e90-56cc-9a52-9ecd58c319c9",
+    "name": "AMD Ryzen 7 5700G",
+    "price": 328
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/61vGQNUEsGL._AC_UY218_.jpg",
+    "id": "40eef396-e94c-51f8-a917-f57f53ea97bf",
+    "name": "AMD Ryzen 5 5600X",
+    "price": 229
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/71Skecnsn-L._AC_UY218_.jpg",
+    "id": "4c41a5f4-16c4-5b2d-aab3-09d75238e4ae",
+    "name": "Thermaltake Smart",
+    "price": 34
+  },
+  {
+    "category": "ram",
+    "img": "https://m.media-amazon.com/images/I/91D0cvyV5ZL._AC_UY218_.jpg",
+    "id": "3a6a9c8e-a0dd-52cb-8f35-fff75d9e3038",
+    "name": "Corsair Vengeance RGB Pro 32GB",
+    "price": 171
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/81UUUoepHiL._AC_UY218_.jpg",
+    "id": "a4648e1d-2935-5201-af4a-bdf9961911ea",
+    "name": "ARESGAME",
+    "price": 79
+  },
+  {
+    "category": "processors",
+    "img": "https://m.media-amazon.com/images/I/71idAEIDhvL._AC_UY218_.jpg",
+    "id": "bd478c79-4541-5075-92d8-3584e6c37695",
+    "name": "Intel® Core™ i7-11700K",
+    "price": 319
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/71OaPvBxzPL._AC_UY218_.jpg",
+    "id": "cb8d0b26-eeee-51df-9ac1-9538989fc9ee",
+    "name": "EVGA SuperNOVA 1000",
+    "price": 179
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/71As1MFOixL._AC_UY218_.jpg",
+    "id": "9452f47a-a76c-534a-ae7c-afe38b19eb6c",
+    "name": "Corsair K60 RGB Pro",
+    "price": 79
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/8109dbUIeqL._AC_UY218_.jpg",
+    "id": "5936ba03-45b6-55a0-83dd-2a3122261e05",
+    "name": "ASUS ROG Strix",
+    "price": 192
+  },
+  {
+    "category": "psu",
+    "img": "https://m.media-amazon.com/images/I/71OLzJgYheL._AC_UY218_.jpg",
+    "id": "73e2299c-795b-538d-9f44-104efb8d1b25",
+    "name": "ARESGAME Power Supply",
+    "price": 57
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/81-+oewJgQL._AC_UY218_.jpg",
+    "id": "24767917-e2b6-5dc4-bbf3-35a66549308e",
+    "name": "Razer BlackWidow V3",
+    "price": 46
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/71T9KD9OFVL._AC_UY218_.jpg",
+    "id": "d26e8dcc-52ab-5154-ac2c-a0cb5132c2c1",
+    "name": "HyperX Alloy Core RGB",
+    "price": 39
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/713siPvPt1L._AC_UY218_.jpg",
+    "id": "1c3758c5-d64a-5c42-b59f-0640f95b019e",
+    "name": "Corsair K100 RGB ",
+    "price": 54
+  },
+  {
+    "category": "keyboard",
+    "img": "https://m.media-amazon.com/images/I/61WgmLgwuQL._AC_UY218_.jpg",
+    "id": "e15b36ec-b7ca-5b67-a895-13b6affe2e94",
+    "name": "Razer Cynosa Chroma",
+    "price": 34
+  }
+]
